@@ -101,7 +101,7 @@
 	<snapshotRepository>
   <id>admin</id>
   <name>Snapshot</name>
-  <url>http://3.129.89.86:8081/repository/time-tracker/</url>
+  <url>http://3.129.89.86:8081/repository/slave-1/</url>
     </snapshotRepository>
          </distributionManagement>
 </project>
