@@ -97,4 +97,11 @@
             </plugin>
         </plugins>
     </reporting>
+         <distributionManagement>
+	<snapshotRepository>
+  <id>localNexus</id>
+  <name>Snapshot</name>
+  <url>http://3.129.89.86:8081/repository/webapplication/</url>
+    </snapshotRepository>
+         </distributionManagement>
 </project>
